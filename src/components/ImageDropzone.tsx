@@ -41,7 +41,7 @@ const ImageDropzone: React.FC<ImageDropzoneProps> = ({ onDrop }) => {
       <img
         src={pdfConvertImg}
         alt="PDF Conversion"
-        className="w-44 h-44 mb-6 object-contain"
+        className="w-40 h-40 mb-6 object-contain"
       />
 
       <div className="text-center">

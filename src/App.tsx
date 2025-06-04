@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">
       <Header />
-      <main className="flex-grow container mt-12 mx-auto px-4 py-8">
+      <main className="flex-grow container mt-10 mx-auto px-4 py-8">
         <ImageToPdfConverter />
       </main>
       <Footer />
